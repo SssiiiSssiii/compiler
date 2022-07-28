@@ -94,7 +94,8 @@ int main() {
     return 0;
 }
 ```
-
+### set the input in file
+![Alt text](/posts/path/to/img.jpg "Optional title")
 # Parser
 ```c
 #include <bits/stdc++.h>
