@@ -227,3 +227,14 @@ int main() {
 }
 
 ```
+
+## Test the parser
+valid input  `draw square`    
+
+![Alt text](/images/testParser.gif)    
+
+valid input  `draw compiler`      
+
+![Alt text](/images/testParser2.gif)   
+
+
