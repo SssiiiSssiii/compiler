@@ -1,6 +1,6 @@
 # Grammar
 **painter** &rarr; draw **shape**   
-**shape** &rarr; circle | square | triangle | line
+**shape** &rarr; square | triangle | line
 
 # Scanner
 ```c
@@ -94,8 +94,8 @@ int main() {
     return 0;
 }
 ```
-## set the input into the file
-**let's try to write a valid input**    
+## Test the scanner
+**let's try to write a valid input into the file**    
 `draw square`    
 
 ![Alt text](/images/setInputInFile.gif)
@@ -233,7 +233,7 @@ valid input  `draw square`
 
 ![Alt text](/images/testParser.gif)    
 
-valid input  `draw compiler`      
+invalid input  `draw compiler`      
 
 ![Alt text](/images/testParser2.gif)   
 
