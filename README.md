@@ -98,7 +98,9 @@ int main() {
 **let's try to write a valid input**    
 ![Alt text](/images/setInputInFile.gif)
 ## Run it
-![Alt text](/images/setInputInFile.gif)
+![Alt text](/images/runIt.gif)
+## the output
+![Alt text](/images/tokens.gif)
 # Parser
 ```c
 #include <bits/stdc++.h>
