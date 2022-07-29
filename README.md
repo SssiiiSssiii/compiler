@@ -96,11 +96,18 @@ int main() {
 ```
 ## set the input into the file
 **let's try to write a valid input**    
+`draw square`    
+
 ![Alt text](/images/setInputInFile.gif)
 ## Run it
 ![Alt text](/images/runIt.gif)
 ## the output
 ![Alt text](/images/tokens.gif)
+## let's try a invalid input    
+`draw compiler`   
+
+![Alt text](/images/invalidInput.gif)
+![Alt text](/images/tokens2.gif)
 # Parser
 ```c
 #include <bits/stdc++.h>
