@@ -95,6 +95,9 @@ int main() {
 }
 ```
 ## set the input into the file
+**let's try to write a valid input**    
+![Alt text](/images/setInputInFile.gif)
+## Run it
 ![Alt text](/images/setInputInFile.gif)
 # Parser
 ```c
