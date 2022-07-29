@@ -219,7 +219,7 @@ public:
 
 int main() {
 
-    Parser sc("F:\\compiler\\tokens.txt");
+    Parser sc("tokens.txt");
     if (sc.isValid())
         sc.drawing();
 
